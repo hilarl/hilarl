@@ -12,7 +12,7 @@ and Praecise Cloud; [github.com/Praecise](https://github.com/Praecise).
 **[Furcate OS](https://furcate.org)** (2026) — the open, native operating system for AI infrastructure;
 [github.com/furcateresearch](https://github.com/furcateresearch).
 
-**[Compisle](https://compisle.com)** — modular, factory-built compute and energy systems for sovereign
+**[Compisle](https://compisle.com)** (2026) — modular, factory-built compute and energy systems for sovereign
 digital infrastructure.
 
 **[Living Worlds](https://github.com/livingworlds)** (2026) — current focus. Simulated worlds built from baseline
