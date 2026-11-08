@@ -14,8 +14,8 @@ the entire stack, on any machine.
 **[Praecise](https://github.com/Praecise)** — the full stack for infrastructure you own, from the
 operating system to the cloud; [praecise.com](https://praecise.com).
 
-**[Compisle](https://github.com/livingworlds)** — modular, factory-built compute and energy systems for sovereign
-digital infrastructure; [compisle.com](https://compisle.com).
+**[Compisle](https://compisle.com)** — modular, factory-built compute and energy systems for sovereign
+digital infrastructure.
 
 **[Living Worlds](https://github.com/livingworlds)** (2026) — current focus. Simulated worlds built from baseline
 data, where agents, species and models live and learn; [livingworldslab.com](https://livingworldslab.com).
