@@ -11,6 +11,12 @@ infrastructure.
 **[Furcate OS](https://github.com/furcateresearch)** (2026) — the operating system. One-step installation of
 the entire stack, on any machine.
 
+**[Praecise](https://github.com/Praecise)** — the full stack for infrastructure you own, from the
+operating system to the cloud; [praecise.com](https://praecise.com).
+
+**[Compisle](https://compisle.com)** — modular, factory-built compute and energy systems for sovereign
+digital infrastructure.
+
 **[Living Worlds](https://livingworldslab.com)** (2026) — current focus. Simulated worlds built from baseline
 data, where agents, species and models live and learn.
 
