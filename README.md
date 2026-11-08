@@ -1,6 +1,6 @@
 ## Hilal Agil
 
-Research on **self-improving AI** and **sovereign compute** — systems that can be checked, and that
+Research on **decentralized AI** and **sovereign compute** — systems that can be checked, and that
 run on any hardware.
 
 **[Praecise](https://praecise.com)** (2024) — the full stack for infrastructure you own: Furcate, Praecise Metal
