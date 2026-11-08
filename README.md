@@ -6,8 +6,6 @@ run on any hardware.
 **[Tenzro](https://tenzro.com)** (2024) — the open settlement and coordination layer for compute;
 [github.com/tenzro](https://github.com/tenzro).
 
-**Furcate** (2025) — the distributed intelligence system.
-
 **[Furcate OS](https://furcate.org)** (2026) — the open, native operating system for AI infrastructure;
 [github.com/furcateresearch](https://github.com/furcateresearch).
 
