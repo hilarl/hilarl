@@ -15,7 +15,7 @@ and Praecise Cloud; [github.com/Praecise](https://github.com/Praecise).
 **[Compisle](https://compisle.com)** (2026) — modular, factory-built compute and energy systems for sovereign
 digital infrastructure.
 
-**[Living Worlds](https://github.com/livingworlds)** (2026) — current focus. Simulated worlds built from baseline
+**[Living Worlds](https://github.com/livingworlds)** (2026) — simulated worlds built from baseline
 data, where agents, species and models live and learn.
 
 ---
