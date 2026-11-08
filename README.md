@@ -3,16 +3,16 @@
 Research on **self-improving AI** and **sovereign compute** — systems that can be checked, and that
 run on any hardware.
 
-**[Tenzro](https://github.com/tenzro)** (2024) — the distributed computing network and
-infrastructure.
+**[Tenzro](https://tenzro.com)** (2024) — the open settlement and coordination layer for compute;
+[github.com/tenzro](https://github.com/tenzro).
 
-**[Furcate](https://github.com/furcateai)** (2025) — the distributed intelligence system.
+**Furcate** (2025) — the distributed intelligence system.
 
-**[Furcate OS](https://github.com/furcateresearch)** (2026) — the operating system. One-step installation of
-the entire stack, on any machine.
+**[Furcate OS](https://furcate.org)** (2026) — the open, native operating system for AI infrastructure;
+[github.com/furcateresearch](https://github.com/furcateresearch).
 
-**[Praecise](https://github.com/Praecise)** — the full stack for infrastructure you own, from the
-operating system to the cloud; [praecise.com](https://praecise.com).
+**[Praecise](https://praecise.com)** — the full stack for infrastructure you own: Furcate, Praecise Metal
+and Praecise Cloud; [github.com/Praecise](https://github.com/Praecise).
 
 **[Compisle](https://compisle.com)** — modular, factory-built compute and energy systems for sovereign
 digital infrastructure.
