@@ -9,7 +9,7 @@ run on any hardware.
 **[Furcate OS](https://furcate.org)** (2026) — the open, native operating system for AI infrastructure;
 [github.com/furcateresearch](https://github.com/furcateresearch).
 
-**[Praecise](https://praecise.com)** — the full stack for infrastructure you own: Furcate, Praecise Metal
+**[Praecise](https://praecise.com)** (2024) — the full stack for infrastructure you own: Furcate, Praecise Metal
 and Praecise Cloud; [github.com/Praecise](https://github.com/Praecise).
 
 **[Compisle](https://compisle.com)** — modular, factory-built compute and energy systems for sovereign
