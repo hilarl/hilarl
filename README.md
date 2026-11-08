@@ -9,7 +9,7 @@ and Praecise Cloud; [github.com/Praecise](https://github.com/Praecise).
 **[Tenzro](https://tenzro.com)** (2024) — the open settlement and coordination layer for compute;
 [github.com/tenzro](https://github.com/tenzro).
 
-**[Furcate OS](https://furcate.org)** (2026) — the open, native operating system for AI infrastructure;
+**[Furcate OS](https://furcate.org)** (2026) — the open, native operating system for sovereign digital infrastructure;
 [github.com/furcateresearch](https://github.com/furcateresearch).
 
 **[Compisle](https://compisle.com)** (2026) — modular, factory-built compute and energy systems for sovereign
