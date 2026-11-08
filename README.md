@@ -3,14 +3,14 @@
 Research on **self-improving AI** and **sovereign compute** — systems that can be checked, and that
 run on any hardware.
 
+**[Praecise](https://praecise.com)** (2024) — the full stack for infrastructure you own: Furcate, Praecise Metal
+and Praecise Cloud; [github.com/Praecise](https://github.com/Praecise).
+
 **[Tenzro](https://tenzro.com)** (2024) — the open settlement and coordination layer for compute;
 [github.com/tenzro](https://github.com/tenzro).
 
 **[Furcate OS](https://furcate.org)** (2026) — the open, native operating system for AI infrastructure;
 [github.com/furcateresearch](https://github.com/furcateresearch).
-
-**[Praecise](https://praecise.com)** (2024) — the full stack for infrastructure you own: Furcate, Praecise Metal
-and Praecise Cloud; [github.com/Praecise](https://github.com/Praecise).
 
 **[Compisle](https://compisle.com)** — modular, factory-built compute and energy systems for sovereign
 digital infrastructure.
