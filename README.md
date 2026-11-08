@@ -8,7 +8,7 @@ infrastructure.
 
 **[Furcate](https://github.com/furcateai)** (2025) — the distributed intelligence system.
 
-**Sovox** (2026) — the operating system. One-step installation of
+**[Furcate OS](https://github.com/furcateresearch)** (2026) — the operating system, successor to Sovox. One-step installation of
 the entire stack, on any machine.
 
 **Recursive Self** (2026) — current focus. Composite
