@@ -16,7 +16,7 @@ and Praecise Cloud; [github.com/Praecise](https://github.com/Praecise).
 digital infrastructure.
 
 **[Living Worlds](https://github.com/livingworlds)** (2026) — current focus. Simulated worlds built from baseline
-data, where agents, species and models live and learn; [livingworldslab.com](https://livingworldslab.com).
+data, where agents, species and models live and learn.
 
 ---
 
