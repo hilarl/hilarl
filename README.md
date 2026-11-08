@@ -8,10 +8,10 @@ infrastructure.
 
 **[Furcate](https://github.com/furcateai)** (2025) — the distributed intelligence system.
 
-**[Sovox](https://github.com/hilarl/sovox)** (2026) — the operating system. One-step installation of
+**Sovox** (2026) — the operating system. One-step installation of
 the entire stack, on any machine.
 
-**[Recursive Self](https://github.com/hilarl/recursive-self)** (2026) — current focus. Composite
+**Recursive Self** (2026) — current focus. Composite
 expert selves, and the measurement discipline to tell whether a claimed improvement is real.
 
 ---
